@@ -1,0 +1,19 @@
+{
+  "name": "doc-pm-lib",
+  "version": "0.0.1",
+  "description": "Documentação da Lib do PM",
+  "main": "index.js",
+  "authors": {
+    "name": "Wanderlei Junior",
+    "email": "wanderlei.junior@teknisa.com"
+  },
+  "repository": "/doc-pm-lib",
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
