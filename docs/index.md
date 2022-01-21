@@ -2,8 +2,8 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Documentação da Lib do PM
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Get Start →
+actionLink: /guia/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description

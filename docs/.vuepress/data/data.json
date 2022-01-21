@@ -1,0 +1,20 @@
+[
+    {
+        "name": "styleHeightCalc",
+        "type": "string | number",
+        "default": "undefined",
+        "description": "Quantidade de pixel a ser subtraído do cálculo de altura do form. Ex.: `height: calc(100vh - ${styleHeightCalc})`. Se não informar a propriedade nenhum estilo será aplicado"
+    },
+    {
+        "name": "headerProps",
+        "type": "IHeader",
+        "default": "",
+        "description": "Propriedads do Header do Form"
+    },
+    {
+        "name": "footerProps",
+        "type": "IFooter",
+        "default": "",
+        "description": "Propriedads do Footer do Form"
+    }
+]
