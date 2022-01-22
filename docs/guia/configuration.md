@@ -42,6 +42,7 @@ public saveForm() {
 ```
 
 ## Nota
-
+::: tip Dica
 As classes com prefixo `PmLib` são classes do tipo `service`, `controller`, `utilities`, entre outros.
 Já as classes que tenham apenas `Pm` sem o `Lib` são classes modelos de componentes.
+:::

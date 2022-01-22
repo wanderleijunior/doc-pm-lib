@@ -148,7 +148,6 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'tek-lib'
           ]
         }
       ]
