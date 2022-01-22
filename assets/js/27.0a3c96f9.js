@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{430:function(e,i,o){"use strict";o.r(i);i.default=[{name:"isVisible",type:"boolean",default:"true",description:"Define a visibilidade do elemento"},{name:"disabled",type:"boolean",default:"false",description:"Define se o elemento esta ou não desabilitado"}]}}]);
